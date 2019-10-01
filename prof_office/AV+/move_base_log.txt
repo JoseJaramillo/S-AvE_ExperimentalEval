@@ -1,0 +1,113 @@
+[ INFO] [1567094302.144792351, 43.456000000]: odom received!
+[ERROR] [1567094341.282162760, 79.586000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094346.898651568, 84.786000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094352.537379861, 89.987000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094358.156346827, 95.189000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094363.769376419, 100.391000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094369.446213008, 105.593000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1567094369.662150797, 105.795000000]: Got new plan
+[ INFO] [1567094371.806919334, 107.794000000]: Got new plan
+[ INFO] [1567094373.978089481, 109.795000000]: Got new plan
+[ INFO] [1567094376.121310437, 111.794000000]: Got new plan
+[ INFO] [1567094378.264133344, 113.794000000]: Got new plan
+[ INFO] [1567094380.421059000, 115.794000000]: Got new plan
+[ INFO] [1567094382.556645698, 117.794000000]: Got new plan
+[ INFO] [1567094384.654724681, 119.794000000]: Got new plan
+[ INFO] [1567094386.740499738, 121.795000000]: Got new plan
+[ INFO] [1567094388.803370166, 123.794000000]: Got new plan
+[ INFO] [1567094390.873602683, 125.794000000]: Got new plan
+[ INFO] [1567094392.946681048, 127.794000000]: Got new plan
+[ INFO] [1567094395.021119522, 129.794000000]: Got new plan
+[ INFO] [1567094397.077504268, 131.794000000]: Got new plan
+[ INFO] [1567094399.134161841, 133.794000000]: Got new plan
+[ INFO] [1567094401.195013784, 135.794000000]: Got new plan
+[ INFO] [1567094402.444941643, 136.994000000]: Goal reached
+[ERROR] [1567094436.095018220, 168.599000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094441.578576914, 173.801000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094447.054632374, 179.001000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094452.507433603, 184.202000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094458.180926756, 189.604000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094463.692060537, 194.806000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094469.148518561, 200.007000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094474.619261630, 205.208000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094514.132428421, 242.101000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094519.848870673, 247.302000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094525.477266231, 252.503000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094531.125271877, 257.704000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094536.732808370, 262.906000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094542.230714446, 268.108000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094547.794219225, 273.309000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1567094548.003242765, 273.509000000]: Got new plan
+[ INFO] [1567094550.127231136, 275.509000000]: Got new plan
+[ INFO] [1567094558.642833833, 283.512000000]: Got new plan
+[ INFO] [1567094560.730230383, 285.509000000]: Got new plan
+[ INFO] [1567094562.862581407, 287.509000000]: Got new plan
+[ INFO] [1567094564.951337482, 289.509000000]: Got new plan
+[ INFO] [1567094567.047023303, 291.509000000]: Got new plan
+[ INFO] [1567094567.047101467, 291.509000000]: Goal reached
+[ERROR] [1567094604.846873199, 326.522000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094610.358309976, 331.723000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094615.865491567, 336.925000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094621.338297623, 342.126000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094626.787177927, 347.327000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094632.271327388, 352.528000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094637.755384808, 357.729000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094643.219047517, 362.930000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094681.495340189, 396.893000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094687.035475878, 402.094000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094692.788212022, 407.296000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094698.385964625, 412.498000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094704.127702036, 417.899000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094709.666486528, 423.102000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094715.192755132, 428.303000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094720.762055074, 433.504000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094756.771486589, 466.271000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094762.307782581, 471.472000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094767.852682739, 476.673000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094773.469309431, 481.874000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094779.022182434, 487.075000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094784.623458132, 492.276000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094790.161961295, 497.477000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094795.763843613, 502.677000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094824.523652726, 529.047000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094830.419722653, 534.447000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094836.176162658, 539.648000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094841.961808410, 544.853000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094847.482097180, 550.053000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094853.019916180, 555.254000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094858.562548835, 560.454000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094864.260139965, 565.655000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094909.359977865, 606.586000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094914.827223366, 611.787000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094920.412487707, 616.988000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094926.078691129, 622.189000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094931.667336300, 627.390000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094937.215285816, 632.592000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094981.960348700, 673.488000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094987.566750421, 678.692000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094993.178000777, 683.893000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567094998.813385936, 689.094000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095004.431808711, 694.296000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095009.943775087, 699.498000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095015.487619034, 704.698000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095021.060930027, 709.899000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095080.819207344, 763.580000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095086.461496009, 768.781000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095092.093821511, 773.982000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095097.760067334, 779.183000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095103.616187691, 784.383000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095109.425730730, 789.584000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095115.088409762, 794.787000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1567095115.302695419, 794.988000000]: Got new plan
+[ INFO] [1567095117.457862865, 796.988000000]: Got new plan
+[ INFO] [1567095117.876976007, 797.388000000]: Goal reached
+[ERROR] [1567095217.906411915, 887.048000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095223.657745383, 892.252000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095229.349929896, 897.453000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095235.050439700, 902.657000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095240.747787396, 907.859000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095246.389556429, 913.060000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1567095252.025827914, 918.262000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+^C[move_base-1] killing on exit
+shutting down processing monitor...
+

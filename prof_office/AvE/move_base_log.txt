@@ -1,0 +1,202 @@
+[ INFO] [1564004117.214801819, 88.741000000]: odom received!
+[ERROR] [1564004142.455435495, 111.965000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004148.063724464, 117.166000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004148.276335264, 117.368000000]: Got new plan
+[ INFO] [1564004150.407689202, 119.367000000]: Got new plan
+[ INFO] [1564004152.545251030, 121.367000000]: Got new plan
+[ INFO] [1564004154.709464494, 123.368000000]: Got new plan
+[ INFO] [1564004156.847948633, 125.367000000]: Got new plan
+[ INFO] [1564004158.991091372, 127.370000000]: Got new plan
+[ INFO] [1564004161.091098287, 129.367000000]: Got new plan
+[ INFO] [1564004163.179947316, 131.367000000]: Got new plan
+[ INFO] [1564004165.261203826, 133.367000000]: Got new plan
+[ INFO] [1564004166.290495332, 134.367000000]: Goal reached
+[ERROR] [1564004199.690807073, 166.273000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004205.080506325, 171.476000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004210.478237755, 176.677000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004215.879321861, 181.879000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004216.087899328, 182.081000000]: Got new plan
+[ INFO] [1564004218.151342463, 184.080000000]: Got new plan
+[ INFO] [1564004220.227328441, 186.080000000]: Got new plan
+[ INFO] [1564004222.317642290, 188.080000000]: Got new plan
+[ INFO] [1564004224.413177786, 190.081000000]: Got new plan
+[ INFO] [1564004226.510977678, 192.080000000]: Got new plan
+[ INFO] [1564004228.196349922, 193.680000000]: Goal reached
+[ERROR] [1564004249.603040507, 213.702000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004255.130322779, 218.903000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004261.104710816, 224.103000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004267.106155146, 229.304000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004267.333522886, 229.506000000]: Got new plan
+[ INFO] [1564004269.701106536, 231.510000000]: Got new plan
+[ INFO] [1564004271.867466150, 233.506000000]: Got new plan
+[ INFO] [1564004273.975825888, 235.506000000]: Got new plan
+[ INFO] [1564004276.083767017, 237.506000000]: Got new plan
+[ INFO] [1564004282.328438206, 243.507000000]: Got new plan
+[ INFO] [1564004284.378526631, 245.506000000]: Got new plan
+[ INFO] [1564004286.455476707, 247.506000000]: Got new plan
+[ INFO] [1564004288.533344340, 249.506000000]: Got new plan
+[ INFO] [1564004290.639276218, 251.507000000]: Got new plan
+[ INFO] [1564004292.755090261, 253.507000000]: Got new plan
+[ INFO] [1564004294.876303436, 255.506000000]: Got new plan
+[ INFO] [1564004296.957613542, 257.506000000]: Got new plan
+[ INFO] [1564004299.036614462, 259.506000000]: Got new plan
+[ INFO] [1564004301.110698272, 261.506000000]: Got new plan
+[ INFO] [1564004303.192159190, 263.506000000]: Got new plan
+[ INFO] [1564004305.302153038, 265.507000000]: Got new plan
+[ INFO] [1564004307.413556822, 267.506000000]: Got new plan
+[ INFO] [1564004309.555684603, 269.506000000]: Got new plan
+[ INFO] [1564004311.632393979, 271.506000000]: Got new plan
+[ INFO] [1564004313.710934702, 273.506000000]: Got new plan
+[ INFO] [1564004315.792045160, 275.508000000]: Got new plan
+[ INFO] [1564004317.874277957, 277.506000000]: Got new plan
+[ INFO] [1564004319.955252510, 279.506000000]: Got new plan
+[ INFO] [1564004322.059722963, 281.507000000]: Got new plan
+[ INFO] [1564004324.178209912, 283.506000000]: Got new plan
+[ INFO] [1564004326.270276702, 285.508000000]: Got new plan
+[ INFO] [1564004328.347372780, 287.506000000]: Got new plan
+[ERROR] [1564004335.615101218, 294.506000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004335.825268514, 294.707000000]: Got new plan
+[ INFO] [1564004337.915178844, 296.707000000]: Got new plan
+[ INFO] [1564004339.995985458, 298.708000000]: Got new plan
+[ INFO] [1564004342.095561903, 300.707000000]: Got new plan
+[ INFO] [1564004344.191848936, 302.707000000]: Got new plan
+[ INFO] [1564004346.303268743, 304.707000000]: Got new plan
+[ INFO] [1564004348.392525738, 306.707000000]: Got new plan
+[ INFO] [1564004350.487324870, 308.707000000]: Got new plan
+[ INFO] [1564004352.584056912, 310.708000000]: Got new plan
+[ INFO] [1564004354.688773053, 312.708000000]: Got new plan
+[ INFO] [1564004358.883792463, 316.708000000]: Got new plan
+[ INFO] [1564004360.968505819, 318.707000000]: Got new plan
+[ INFO] [1564004363.062445156, 320.707000000]: Got new plan
+[ INFO] [1564004365.165708495, 322.707000000]: Got new plan
+[ INFO] [1564004367.292447909, 324.707000000]: Got new plan
+[ INFO] [1564004369.426627491, 326.707000000]: Got new plan
+[ INFO] [1564004369.638496726, 326.907000000]: Goal reached
+[ERROR] [1564004391.111410147, 346.827000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004396.663995755, 352.030000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004396.873131286, 352.231000000]: Got new plan
+[ INFO] [1564004399.012785596, 354.232000000]: Got new plan
+[ INFO] [1564004401.156150669, 356.233000000]: Got new plan
+[ INFO] [1564004403.273697287, 358.231000000]: Got new plan
+[ INFO] [1564004405.383628443, 360.231000000]: Got new plan
+[ INFO] [1564004407.474574183, 362.234000000]: Got new plan
+[ INFO] [1564004409.559763255, 364.231000000]: Got new plan
+[ INFO] [1564004411.654422363, 366.231000000]: Got new plan
+[ INFO] [1564004413.721899418, 368.231000000]: Got new plan
+[ INFO] [1564004415.801850056, 370.231000000]: Got new plan
+[ INFO] [1564004417.907958062, 372.231000000]: Got new plan
+[ INFO] [1564004419.990322534, 374.232000000]: Got new plan
+[ INFO] [1564004422.052402685, 376.231000000]: Got new plan
+[ INFO] [1564004424.112973096, 378.231000000]: Got new plan
+[ INFO] [1564004426.208101269, 380.231000000]: Got new plan
+[ INFO] [1564004426.208167719, 380.231000000]: Goal reached
+[ERROR] [1564004447.875775000, 400.395000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004453.367414682, 405.595000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004458.911842169, 410.797000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004459.124031428, 410.998000000]: Got new plan
+[ INFO] [1564004461.252180325, 412.998000000]: Got new plan
+[ INFO] [1564004463.369295609, 414.998000000]: Got new plan
+[ INFO] [1564004465.447310934, 416.998000000]: Got new plan
+[ INFO] [1564004467.537696295, 418.999000000]: Got new plan
+[ INFO] [1564004469.627553055, 420.998000000]: Got new plan
+[ INFO] [1564004471.719177100, 422.998000000]: Got new plan
+[ INFO] [1564004473.831918344, 424.999000000]: Got new plan
+[ INFO] [1564004475.925384748, 427.000000000]: Got new plan
+[ INFO] [1564004478.042596261, 428.998000000]: Got new plan
+[ INFO] [1564004480.146162934, 430.998000000]: Got new plan
+[ INFO] [1564004482.231324197, 432.998000000]: Got new plan
+[ INFO] [1564004484.303449860, 434.999000000]: Got new plan
+[ INFO] [1564004486.382123271, 436.999000000]: Got new plan
+[ INFO] [1564004488.445737772, 438.999000000]: Got new plan
+[ INFO] [1564004490.501389310, 440.998000000]: Got new plan
+[ INFO] [1564004492.586263893, 442.998000000]: Got new plan
+[ INFO] [1564004493.000425446, 443.399000000]: Goal reached
+[ INFO] [1564004515.896246243, 464.770000000]: Got new plan
+[ INFO] [1564004518.022040290, 466.770000000]: Got new plan
+[ INFO] [1564004520.175501999, 468.771000000]: Got new plan
+[ INFO] [1564004522.324994571, 470.770000000]: Got new plan
+[ INFO] [1564004524.468091236, 472.771000000]: Got new plan
+[ INFO] [1564004533.440709761, 480.771000000]: Got new plan
+[ INFO] [1564004535.775168728, 482.770000000]: Got new plan
+[ INFO] [1564004538.067619755, 484.770000000]: Got new plan
+[ INFO] [1564004540.304774944, 486.773000000]: Got new plan
+[ INFO] [1564004542.705700786, 488.770000000]: Got new plan
+[ INFO] [1564004544.805461040, 490.770000000]: Got new plan
+[ INFO] [1564004546.911390850, 492.770000000]: Got new plan
+[ INFO] [1564004548.998307039, 494.770000000]: Got new plan
+[ INFO] [1564004551.071060618, 496.770000000]: Got new plan
+[ INFO] [1564004553.163013642, 498.771000000]: Got new plan
+[ INFO] [1564004553.163147733, 498.771000000]: Goal reached
+[ERROR] [1564004574.189033876, 518.482000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004579.650747113, 523.683000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004585.148068140, 528.884000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004590.599178728, 534.085000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004596.044892191, 539.286000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004601.511456917, 544.487000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004606.931943821, 549.690000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004612.442811871, 554.891000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004642.283293337, 582.941000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004647.719943642, 588.142000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004653.168635896, 593.342000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004658.641022655, 598.546000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004664.099678549, 603.750000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004669.532692692, 608.950000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004669.741419482, 609.151000000]: Got new plan
+[ INFO] [1564004671.850433012, 611.150000000]: Got new plan
+[ INFO] [1564004673.982076697, 613.150000000]: Got new plan
+[ INFO] [1564004676.146430127, 615.153000000]: Got new plan
+[ INFO] [1564004678.297529805, 617.151000000]: Got new plan
+[ INFO] [1564004679.998716096, 618.750000000]: Goal reached
+[ERROR] [1564004709.419851398, 645.991000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004709.633662953, 646.191000000]: Got new plan
+[ INFO] [1564004711.733740651, 648.191000000]: Got new plan
+[ INFO] [1564004713.815602567, 650.191000000]: Got new plan
+[ INFO] [1564004715.882048105, 652.191000000]: Got new plan
+[ INFO] [1564004717.966946100, 654.191000000]: Got new plan
+[ INFO] [1564004720.045536682, 656.192000000]: Got new plan
+[ INFO] [1564004722.111880651, 658.191000000]: Got new plan
+[ INFO] [1564004724.223645588, 660.191000000]: Got new plan
+[ INFO] [1564004726.334954459, 662.191000000]: Got new plan
+[ INFO] [1564004728.469988260, 664.191000000]: Got new plan
+[ INFO] [1564004730.605130183, 666.191000000]: Got new plan
+[ INFO] [1564004732.713316964, 668.191000000]: Got new plan
+[ INFO] [1564004734.809760200, 670.191000000]: Got new plan
+[ INFO] [1564004736.878621277, 672.191000000]: Got new plan
+[ INFO] [1564004738.953915198, 674.191000000]: Got new plan
+[ INFO] [1564004741.014371266, 676.191000000]: Got new plan
+[ INFO] [1564004743.152950304, 678.192000000]: Got new plan
+[ INFO] [1564004744.225105072, 679.191000000]: Goal reached
+[ERROR] [1564004790.231791899, 721.134000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004790.444320678, 721.338000000]: Got new plan
+[ INFO] [1564004792.582948403, 723.336000000]: Got new plan
+[ INFO] [1564004794.741632414, 725.336000000]: Got new plan
+[ INFO] [1564004803.314973433, 733.336000000]: Got new plan
+[ INFO] [1564004805.435896239, 735.336000000]: Got new plan
+[ INFO] [1564004807.538950012, 737.336000000]: Got new plan
+[ INFO] [1564004809.632405855, 739.336000000]: Got new plan
+[ INFO] [1564004811.738730728, 741.336000000]: Got new plan
+[ INFO] [1564004813.845602312, 743.338000000]: Got new plan
+[ INFO] [1564004815.935987974, 745.336000000]: Got new plan
+[ INFO] [1564004818.094490793, 747.336000000]: Got new plan
+[ INFO] [1564004820.222953305, 749.336000000]: Got new plan
+[ INFO] [1564004820.223015963, 749.336000000]: Goal reached
+[ERROR] [1564004849.189211455, 776.453000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004854.644787208, 781.654000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004860.090405014, 786.855000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004865.559793655, 792.055000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004871.048594078, 797.255000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004876.555822068, 802.456000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004882.006934326, 807.656000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004887.499490758, 812.856000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004926.532532990, 849.744000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ERROR] [1564004931.957181192, 854.947000000]: Aborting because a valid plan could not be found. Even after executing all recovery behaviors
+[ INFO] [1564004932.167262765, 855.148000000]: Got new plan
+[ INFO] [1564004934.236898827, 857.148000000]: Got new plan
+[ INFO] [1564004936.300771434, 859.148000000]: Got new plan
+[ INFO] [1564004938.362389024, 861.148000000]: Got new plan
+[ INFO] [1564004940.419592756, 863.148000000]: Got new plan
+[ INFO] [1564004942.486863977, 865.148000000]: Got new plan
+[ INFO] [1564004944.560581418, 867.149000000]: Got new plan
+[ INFO] [1564004945.182587556, 867.748000000]: Goal reached
+^C[move_base-1] killing on exit
+
